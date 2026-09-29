@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Simple Lists</title>
+    <meta name="description" content="This is a page for lists">
+    <meta name="keywords" content="html tutorial for lists sec 9">
+  </head>
+
+  <body>
+    <p><b><u>Grocery List</u></b></p>
+
+    <ul type="square">
+      <li>Broccoli</li>
+      <li>Cabbage</li>
+      <li>Carrots</li>
+      <li>Blueberries</li>
+      <li>Pork slices</li>
+      <li><img src="https://static.wikia.nocookie.net/chiikawa/images/e/e3/ChiikawaModerDesign.png/revision/latest?cb=20260921112646" height="30px" width="30px"></li>
+      <li>Bread</li>
+      <li>Cereal</li>
+      <li>Milk</li>
+    </ul>
+  </body>
+</html>
